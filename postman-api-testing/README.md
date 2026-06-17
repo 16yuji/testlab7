@@ -92,7 +92,7 @@ postman-api-testing/
 
 > Thay file `screenshots/01-import-collection.svg` bằng ảnh chụp thật, giữ nguyên tên file hoặc sửa đường dẫn bên dưới.
 
-![Import Collection](postman-api-testing/screenshots/Screenshot 2026-06-17 081410.png)
+![Import Collection](screenshots/Screenshot 2026-06-17 081410.png)
 
 ## 7. Biến môi trường
 
