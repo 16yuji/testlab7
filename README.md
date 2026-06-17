@@ -46,27 +46,10 @@ https://jsonplaceholder.typicode.com
 ## 5. Cấu trúc repository
 
 ```text
-postman-api-testing/
-├── .github/
-│   └── workflows/
-│       └── postman-api-test.yml
-├── data/
-│   └── users.json
 ├── postman/
 │   ├── JSONPlaceholder_API_Testing.postman_collection.json
 │   └── JSONPlaceholder_Environment.postman_environment.json
-├── reports/
-│   └── .gitkeep
 ├── screenshots/
-│   ├── 01-import-collection.svg
-│   ├── 02-environment.svg
-│   ├── 03-get-posts.svg
-│   ├── 04-post-create.svg
-│   ├── 05-update-delete.svg
-│   ├── 06-test-results.svg
-│   └── 07-collection-runner.svg
-├── .gitignore
-├── package.json
 └── README.md
 ```
 
