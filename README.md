@@ -75,7 +75,7 @@ https://jsonplaceholder.typicode.com
 
 > Thay file `screenshots/01-import-collection.svg` bằng ảnh chụp thật, giữ nguyên tên file hoặc sửa đường dẫn bên dưới.
 
-![Import Collection](postman-api-testing/screenshots/Screenshot 2026-06-17 081410.png)
+![Import Collection](screenshots/Screenshot%202026-06-17%20081410.png)
 
 ## 7. Biến môi trường
 
@@ -94,7 +94,7 @@ Ví dụ sử dụng biến:
 
 ### Hình 2. Cấu hình Environment
 
-![Environment](postman-api-testing/screenshots/Screenshot 2026-06-17 081410.png)
+![Environment](screenshots/Screenshot%202026-06-17%20081410.png)
 
 ## 8. Danh sách trường hợp kiểm thử
 
@@ -129,7 +129,7 @@ Các kiểm tra tự động:
 
 ### Hình 3. Kết quả GET danh sách bài viết
 
-![GET Posts](postman-api-testing/screenshots/Screenshot 2026-06-17 075954.png)
+![GET Posts](screenshots/Screenshot%202026-06-17%20075954.png)
 
 ### 9.2. Gửi request POST
 
@@ -158,7 +158,7 @@ Kết quả mong đợi:
 
 ### Hình 4. Kết quả POST tạo bài viết
 
-![POST Create](postman-api-testing/screenshots/Screenshot 2026-06-17 080152.png)
+![POST Create](screenshots/Screenshot%202026-06-17%20080152.png)
 
 ### 9.3. Gửi request PUT, PATCH và DELETE
 
@@ -168,7 +168,7 @@ Kết quả mong đợi:
 
 ### Hình 5. Kết quả cập nhật và xóa dữ liệu
 
-![Update Delete](postman-api-testing/screenshots/Screenshot 2026-06-17 080225.png)
+![Update Delete](screenshots/Screenshot%202026-06-17%20080225.png)
 
 ## 10. Test script trong Postman
 
@@ -199,7 +199,7 @@ pm.test("Thời gian phản hồi dưới 3000 ms", function () {
 
 ### Hình 6. Kết quả các test đều Passed
 
-![Test Results](postman-api-testing/screenshots/Screenshot 2026-06-17 080518.png)
+![Test Results](screenshots/Screenshot%202026-06-17%20080518.png)
 
 ## 11. Chạy Collection Runner
 
@@ -238,7 +238,7 @@ pm.test("Thời gian phản hồi dưới 3000 ms", function () {
 
 ### Hình 7. Kết quả Collection Runner
 
-![Collection Runner](postman-api-testing/screenshots/Screenshot 2026-06-17 080759.png)
+![Collection Runner](screenshots/Screenshot%202026-06-17%20080759.png)
 
 ## 12. Chạy tự động bằng Newman
 
