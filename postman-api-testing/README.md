@@ -111,7 +111,7 @@ Ví dụ sử dụng biến:
 
 ### Hình 2. Cấu hình Environment
 
-![Environment](postman-api-testing/screenshots/Screenshot 2026-06-17 081410.png)
+![Environment](testlab7/postman-api-testing/screenshots/Screenshot 2026-06-17 081410.png)
 
 ## 8. Danh sách trường hợp kiểm thử
 
